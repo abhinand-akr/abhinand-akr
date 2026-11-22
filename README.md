@@ -6,6 +6,8 @@ I'm a Computer Science graduate passionate about building intelligent applicatio
 
 I enjoy developing full-stack applications, integrating AI technologies, and solving real-world problems through software.
 
+Skills:- React,Node.js,MongoDB,Postman,HTML,CSS,JavaScript
+
 ---
 
 ## 🚀 About Me
