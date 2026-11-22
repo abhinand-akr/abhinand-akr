@@ -8,6 +8,14 @@ I enjoy developing full-stack applications, integrating AI technologies, and sol
 
 Skills:- React,Node.js,MongoDB,Postman,HTML,CSS,JavaScript
 
+Projects:-
+
+    Wild Alert- AL powered wildlife detection and emergency alert system.
+
+    English Guru- A Freelance Full Stack platform built for Students to explore and join English classes 
+
+    School Management System- A Full Stack Application for Managing Students ,Attendance ,and Exam
+
 ---
 
 ## 🚀 About Me
